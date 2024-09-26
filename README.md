@@ -15,6 +15,6 @@ git status
 ```
 
 
-[www.google.com](esto es una enlace a google)
+(www.google.com)[esto es una enlace a google]
 
 
